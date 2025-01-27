@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # React + Vite
-
+##INVENTORY MANAGEMENT APP
+---->[Live Demo] (https://pavankalyan011.github.io/assignment/)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
